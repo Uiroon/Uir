@@ -1,0 +1,20 @@
+在本次课设中我将所有的题目集成在了一个项目里，在此对各个题目用到的文件信息加以说明。
+
+题目：编写函数，实现输入一组元素，建立一个带头结点的单链表；对该链表进行非递减排序；实现在非递减有序链表中删除值为x的结点；
+用到的文件：Node.h  LinkList.h  Function1.h
+
+题目：编写函数，采用链式存储和顺序存储实现队列的初始化、入队、出队操作；
+用到的文件：Node.h  LinkList.h  QueueList.h  QueueSequent.h  Function2.h   Function3.h
+
+题目：编写函数，建立有序表，利用二叉排序树的插入算法建立二叉排序树；在以上二叉排序树中删除某一指定关键字元素；采用折半查找实现某一已知的关键字的查找(采用顺序表存储结构)
+用到的文件：BNode.h  BTree.h  Function4.h
+
+题目：选用1-3的数据结构，编写程序实现下述五种算法：简单插入排序，冒泡排序，快速排序，归并排序，堆排序。
+用到的文件：Sort.h  Function5.h
+
+题目：航空机票订票系统
+用到的文件：AirlineInfo.h  AirlineManager.h  Customer.h  Function6.h
+
+Airline.txt                       存放程序用到的航班信息
+Airline数据备份.txt          存放航班信息的备份供调试使用
+CustomerInfo.txt           存放订票结束后的客户订单信息
